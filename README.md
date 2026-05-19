@@ -1,4 +1,4 @@
-﻿# Marco's Claude Skills
+﻿# My Claude Skills
 
 Some Claude Code skills I wrote for my personal projects.
 
